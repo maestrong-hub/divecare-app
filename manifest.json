@@ -1,13 +1,34 @@
 {
-  "name": "DIVECARE",
+  "name": "DIVECARE - Dive SAR Guide",
   "short_name": "DIVECARE",
   "description": "잠수 시간 계산, 반복 잠수 계획, 수색구조 체크리스트, 전세계 잠수병 전문 병원 안내",
-  "start_url": "./index.html",
+  "start_url": "/divecare-app/",
+  "scope": "/divecare-app/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#D85A30",
   "orientation": "portrait",
+  "background_color": "#0a2540",
+  "theme_color": "#0a2540",
+  "lang": "ko",
+  "categories": ["utilities", "health"],
   "icons": [
+    {
+      "src": "icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
     {
       "src": "icons/icon-192.png",
       "sizes": "192x192",
