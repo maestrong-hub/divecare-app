@@ -15,7 +15,7 @@
   ],
   "icons": [
     {
-      "src": "/divecare-app/icon/icon-72.png",
+      "src": "/divecare-app/icons/icon-72.png",
       "sizes": "72x72",
       "type": "image/png",
       "purpose": "any maskable"
