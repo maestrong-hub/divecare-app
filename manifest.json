@@ -1,4 +1,5 @@
 {
+  "id": "/divecare-app/",
   "name": "DIVECARE - Dive SAR Guide",
   "short_name": "DIVECARE",
   "description": "잠수 시간 계산, 반복 잠수 계획, 수색구조 체크리스트, 전세계 잠수병 전문 병원 안내",
@@ -9,37 +10,46 @@
   "background_color": "#0a2540",
   "theme_color": "#0a2540",
   "lang": "ko",
-  "categories": ["utilities", "health"],
+  "categories": ["utilities"],
   "icons": [
     {
-      "src": "icons/icon-72.png",
+      "src": "https://maestrong-hub.github.io/divecare-app/icons/icon-72.png",
       "sizes": "72x72",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "icons/icon-96.png",
+      "src": "https://maestrong-hub.github.io/divecare-app/icons/icon-96.png",
       "sizes": "96x96",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "icons/icon-128.png",
+      "src": "https://maestrong-hub.github.io/divecare-app/icons/icon-128.png",
       "sizes": "128x128",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "icons/icon-192.png",
+      "src": "https://maestrong-hub.github.io/divecare-app/icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "https://maestrong-hub.github.io/divecare-app/icons/icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://maestrong-hub.github.io/divecare-app/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "DIVECARE 감압 계산기"
     }
   ]
 }
