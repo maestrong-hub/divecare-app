@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.maestrong.divecare2",
+    "sha256_cert_fingerprints": [
+      "80:3B:A3:1F:DD:E9:94:28:88:1E:D4:3C:20:34:5D:48:55:FC:7E:34:C5:ED:B4:B5:41:97:F3:C9:48:83:75:94"
+    ]
+  }
+}]
